@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LINQExercise3CSharp-63")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6804a0eb571b6d8d5604b2382635b400fc729dce")]
 [assembly: System.Reflection.AssemblyProductAttribute("LINQExercise3CSharp-63")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LINQExercise3CSharp-63")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

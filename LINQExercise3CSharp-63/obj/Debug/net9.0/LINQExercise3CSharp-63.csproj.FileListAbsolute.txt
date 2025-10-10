@@ -12,3 +12,4 @@ C:\Users\Garrett Chitwood\Desktop\repos\LINQExercise3CSharp-63\LINQExercise3CSha
 C:\Users\Garrett Chitwood\Desktop\repos\LINQExercise3CSharp-63\LINQExercise3CSharp-63\obj\Debug\net9.0\LINQExercise3CSharp-63.pdb
 C:\Users\Garrett Chitwood\Desktop\repos\LINQExercise3CSharp-63\LINQExercise3CSharp-63\obj\Debug\net9.0\LINQExercise3CSharp-63.genruntimeconfig.cache
 C:\Users\Garrett Chitwood\Desktop\repos\LINQExercise3CSharp-63\LINQExercise3CSharp-63\obj\Debug\net9.0\ref\LINQExercise3CSharp-63.dll
+C:\Users\Garrett Chitwood\Desktop\repos\LINQExercise3CSharp-63\LINQExercise3CSharp-63\obj\Debug\net9.0\LINQExercise3CSharp-63.sourcelink.json
